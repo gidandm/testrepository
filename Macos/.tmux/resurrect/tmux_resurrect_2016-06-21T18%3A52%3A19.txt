@@ -1,0 +1,19 @@
+pane	0	0	:bash	1	:*	0	:/Users/andrey.mazgo	1	bash	:
+pane	FreeBSD	0	:192.168.0.74	0	:-	0	:/Users/andrey.mazgo/.ssh	0	bash	:
+pane	FreeBSD	0	:192.168.0.74	0	:-	1	:/Users/andrey.mazgo	1	bash	:
+pane	FreeBSD	0	:192.168.0.74	0	:-	2	:/Users/andrey.mazgo	0	bash	:
+pane	FreeBSD	1	:192.168.0.134	1	:*	0	:/Users/andrey.mazgo/.ssh	0	bash	:
+pane	FreeBSD	1	:192.168.0.134	1	:*	1	:/Users/andrey.mazgo/.ssh	1	bash	:
+pane	FreeBSD	1	:192.168.0.134	1	:*	2	:/Users/andrey.mazgo/.ssh	0	bash	:
+pane	FreeBSD	2	:ansible	0	:	0	:/Users/andrey.mazgo/.tmux/plugins	1	bash	:
+pane	FreeBSD	3	:10.20.2.82	0	:	0	:/Users/andrey.mazgo	0	bash	:
+pane	FreeBSD	3	:10.20.2.82	0	:	1	:/Users/andrey.mazgo	1	bash	:
+pane	FreeBSD	3	:10.20.2.82	0	:	2	:/Users/andrey.mazgo	0	bash	:
+pane	script	0	:script	1	:*	0	:/Users/andrey.mazgo	1	bash	:
+window	0	0	1	:*	c65d,270x75,0,0,0
+window	FreeBSD	0	0	:-	4dfb,270x75,0,0{135x75,0,0[135x37,0,0,1,135x37,0,38,2],134x75,136,0,6}
+window	FreeBSD	1	1	:*	31ab,270x75,0,0{135x75,0,0[135x37,0,0,12,135x37,0,38,14],134x75,136,0,13}
+window	FreeBSD	2	0	:	c664,270x75,0,0,7
+window	FreeBSD	3	0	:	a75b,270x75,0,0{135x75,0,0[135x37,0,0,8,135x37,0,38,9],134x75,136,0,10}
+window	script	0	1	:*	6360,270x75,0,0,11
+state	FreeBSD	script

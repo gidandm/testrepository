@@ -1,0 +1,15 @@
+pane	FreeBSD	0	:192.168.0.74	0	:	0	:/Users/andreimandreimacac	0	bash	:
+pane	FreeBSD	0	:192.168.0.74	0	:	1	:/Users/andreimandreimacac	0	bash	:
+pane	FreeBSD	0	:192.168.0.74	0	:	2	:/Users/andreimandreimacac	1	bash	:
+pane	FreeBSD	1	:192.168.0.134	0	:-	0	:/Users/andreimandreimacac	0	bash	:
+pane	FreeBSD	1	:192.168.0.134	0	:-	1	:/Users/andreimandreimacac	1	bash	:
+pane	FreeBSD	1	:192.168.0.134	0	:-	2	:/Users/andreimandreimacac	0	bash	:
+pane	FreeBSD	2	:ansible	1	:*	0	:/Users/andreimandreimacac	1	bash	:
+pane	FreeBSD	3	:10.20.2.82	0	:	0	:/Users/andreimandreimacac	0	bash	:
+pane	FreeBSD	3	:10.20.2.82	0	:	1	:/Users/andreimandreimacac	0	bash	:
+pane	FreeBSD	3	:10.20.2.82	0	:	2	:/Users/andreimandreimacac	1	bash	:
+window	FreeBSD	0	0	:	d003,318x75,0,0{159x75,0,0[159x37,0,0,2,159x37,0,38,3],158x75,160,0,7}
+window	FreeBSD	1	0	:-	149f,318x75,0,0{159x75,0,0[159x37,0,0,13,159x37,0,38,15],158x75,160,0,14}
+window	FreeBSD	2	1	:*	c905,318x75,0,0,8
+window	FreeBSD	3	0	:	cd89,318x75,0,0{159x75,0,0[159x37,0,0,9,159x37,0,38,10],158x75,160,0,11}
+state	FreeBSD	
